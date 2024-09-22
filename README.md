@@ -2,14 +2,14 @@
 
 ## What is [Rust](https://www.rust-lang.org/)?
 
-![Rust Logo](./Rust_programming_language_black_logo.svg)
+![Rust Logo](./assets/Rust_programming_language_black_logo.svg)
 
 > **Rust** is a systems programming language focused on safety, speed, and concurrency. It has a challenging syntax, with a steep learning curve, but it's definitely worth mastering.
 
 ## Why Rust?
 
 - 🦀 **Awesome mascot**: I love the Rust mascot! It’s just too cute!
-  ![Rustacean](./Rustacean-orig-noshadow.svg "Rustacean" width="100" height="100")
+  ![Rustacean](./assets/Rustacean-orig-noshadow.svg "Rustacean")
 
 - 🔥 **The New Hotness**: Rust is quickly becoming a major player in the programming world, especially for systems programming and beyond. 😉
 
