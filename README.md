@@ -37,4 +37,4 @@
 - [Installation](./basics/installation.md) - Set up Rust on your system.
 - [Say Hi to Rust](./basics/hello-rust.md) - Your first step in writing Rust code.
 
-... continue with more topics!
+... continue with more topics!!!!
